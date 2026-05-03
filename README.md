@@ -37,6 +37,7 @@ A 1:64 reduction in a compact envelope requires multiple gear stages — each co
 | CAD — Exploded Assembly |
 |---|
 | ![Exploded](https://github.com/shansuberr-ux/motor_gearbox/blob/main/exploded.jpeg) |
+
 | Built — Top | Built —  Back |
 |---|---|
 | ![Top](https://github.com/shansuberr-ux/motor_gearbox/blob/main/irl2.jpeg) | ![Back](https://github.com/shansuberr-ux/motor_gearbox/blob/main/irl1.jpeg) |
